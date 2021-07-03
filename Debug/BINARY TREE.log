@@ -1,0 +1,7 @@
+﻿  main.cpp
+D:\DS\BINARY TREE\main.cpp(74,1): fatal error C1010: unexpected end of file while looking for precompiled header. Did you forget to add '#include "pch.h"' to your source?
+  BINARY TREE.cpp
+D:\DS\BINARY TREE\BINARY TREE.cpp(229,1): fatal error C1010: unexpected end of file while looking for precompiled header. Did you forget to add '#include "pch.h"' to your source?
+  TreeNode.cpp
+D:\DS\BINARY TREE\TreeNode.cpp(31,1): fatal error C1010: unexpected end of file while looking for precompiled header. Did you forget to add '#include "pch.h"' to your source?
+  Generating Code...
